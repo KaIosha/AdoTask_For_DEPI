@@ -1,0 +1,8 @@
+E:\DEPI\Backend\Ado Task\NewTask_Ado\bin\Debug\NewTask_Ado.exe.config
+E:\DEPI\Backend\Ado Task\NewTask_Ado\bin\Debug\NewTask_Ado.exe
+E:\DEPI\Backend\Ado Task\NewTask_Ado\bin\Debug\NewTask_Ado.pdb
+E:\DEPI\Backend\Ado Task\NewTask_Ado\obj\Debug\NewTask_Ado.csproj.AssemblyReference.cache
+E:\DEPI\Backend\Ado Task\NewTask_Ado\obj\Debug\NewTask_Ado.csproj.CoreCompileInputs.cache
+E:\DEPI\Backend\Ado Task\NewTask_Ado\obj\Debug\NewTask_Ado.exe
+E:\DEPI\Backend\Ado Task\NewTask_Ado\obj\Debug\NewTask_Ado.pdb
+E:\DEPI\Backend\Ado Task\NewTask_Ado\obj\Debug\NewTask_Ado.exe.config
